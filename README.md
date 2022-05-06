@@ -23,7 +23,15 @@ Link to our presentation introduction Video - https://youtu.be/VUiDEhUMl3c
 
 ## Files
 
-User_Guide.md
+[User_Guide.md](https://github.com/krml94/Trends_BigData_Group17/blob/main/User_Guide.md)
 
 Introduction step by step on how to use Amazon Forecast and Amazon S3
+
+[Electricity_Usage_Forecast.ipynb](https://github.com/krml94/Trends_BigData_Group17/blob/main/Electricity_Usage_Forecast.ipynb)
+
+How to make the Time Series Forecast (Model: ARIMA) in python Jupyter Notebook
+
+[Forecasting with Amazon Forecast.pdf](https://github.com/krml94/Trends_BigData_Group17/blob/main/Forecasting%20with%20Amazon%20Forecast.pdf)
+
+Slides of our presentation on Amazon Forecast Introduction
 
