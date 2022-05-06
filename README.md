@@ -1,4 +1,5 @@
-# Trends_BigData_Group17 AI-Driven time-series dataset forecasting based on AWS Forecast 
+# Trends_BigData_Group17
+# AI-Driven time-series dataset forecasting based on AWS Forecast 
 Trends Marketplace project for MSBA6330 Big Data Analytics by group 17 in the year 2022
 
 Group members: Krishnamoorthy Ramanath, Shravan Panneer, Francesca Rivera, Ye Yang, Xuanyu Zhang
