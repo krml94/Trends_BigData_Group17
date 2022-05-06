@@ -38,3 +38,7 @@ Slides of our presentation on Amazon Forecast Introduction
 [Trends Marketplace Team 17 Flyer.pdf](https://github.com/krml94/Trends_BigData_Group17/blob/main/Trends%20Marketplace%20Team%2017%20Flyer.pdf)
 
 Flyer of Amazon Forecast, including what it is , how it performs and its advantages
+
+[Project Infrastructure Setup.md](https://github.com/krml94/Trends_BigData_Group17/blob/main/Project%20Infrastructure%20Setup.md)
+
+The process of the whole project
