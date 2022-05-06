@@ -13,6 +13,8 @@ In this project we will introduce a time-saving, high-efficiency and user-friend
 ## Dataset:
 Time Series Household electricity usage
 
+Three columns are inclulded in our dataset, the first column is the Timestamp, with unit be 1 hour, from 1/1/2014 1:00 AM to 1/1/2015 12:00 AM, the second clumn is the electricity usage in that hour, the third column is the household number, the total nuumber of households is 370.
+
 The link of our tried dataset: docs.aws.amazon.com/zh_cn/forecast/latest/dg/sample/electricityusagedata.zip
 
 ## Video
