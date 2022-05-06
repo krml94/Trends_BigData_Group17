@@ -1,5 +1,7 @@
 # Trends_BigData_Group17 AI-Driven time-series dataset forecasting based on AWS Forecast 
 
+This project repository is created in partial fulfillment of the requirements for the Big Data Analytics course offered by the Master of Science in Business Analytics program at the Carlson School of Management, University of Minnesota
+
 Group members: Krishnamoorthy Ramanath, Shravan Panneer, Francesca Rivera, Ye Yang, Xuanyu Zhang
 
 Trends Marketplace project for MSBA6330 Big Data Analytics by group 17 in the year 2022
