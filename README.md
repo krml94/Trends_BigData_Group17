@@ -18,5 +18,5 @@ Three columns are inclulded in our dataset, the first column is the Timestamp, w
 
 The link of our tried dataset: docs.aws.amazon.com/zh_cn/forecast/latest/dg/sample/electricityusagedata.zip
 
-## Video
+## Video:
 Link to our presentation introduction Video - https://youtu.be/VUiDEhUMl3c
